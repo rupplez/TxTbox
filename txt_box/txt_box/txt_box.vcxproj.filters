@@ -20,7 +20,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tFuncs.cpp">
+    <ClCompile Include="iohnd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="display.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basicfuncs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

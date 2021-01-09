@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tFuncs.cpp" />
+    <ClCompile Include="display.cpp" />
+    <ClCompile Include="iohnd.cpp" />
+    <ClCompile Include="basicfuncs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="txtbox.h" />
