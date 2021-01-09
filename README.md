@@ -1,7 +1,2 @@
-  _____      _____ _
- |_   _|_  _|_   _| |__   _____  __
-   | | \ \/ / | | | '_ \ / _ \ \/ /
-   | |  >  <  | | | |_) | (_) >  <
-   |_| /_/\_\ |_| |_.__/ \___/_/\_\
-
-   ASCII-like game engine made by C/C++.
+#TxTbox
+ASCII-like game engine made by C/C++.
